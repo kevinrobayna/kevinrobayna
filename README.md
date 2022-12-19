@@ -4,7 +4,7 @@
     <b>Hello there, I'm <a href="https://github.com/kevinrobayna">@kevinrobayna</a> 👋</b>
   </h1>
   <p align="center">
-    <samp>( "👨‍💻 Software Engineer at ☁️ GoCardess" )</samp>
+    <samp>( "👨‍💻 Software Engineer at GoCardless" )</samp>
   </p>
 </p>
 
